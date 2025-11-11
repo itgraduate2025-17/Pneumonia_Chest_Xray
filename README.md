@@ -18,7 +18,7 @@ Pneumonia-Detection/
 ## ⚙️ Requirements
 Install the required packages:
 
-pip install torch torchvision flask tqdm pillow
+pip install torch torchvision gradio tqdm pillow
 
 ## Training the model
 python train_mobilenet_pneumonia.py
