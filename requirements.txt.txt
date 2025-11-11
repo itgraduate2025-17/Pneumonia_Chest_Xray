@@ -1,0 +1,13 @@
+# PyTorch and Torchvision for training and model
+torch==2.2.0
+torchvision==0.18.1
+
+# Image processing
+pillow==10.1.0
+numpy==1.26.0
+
+# Progress bar for training
+tqdm==4.66.1
+
+# Web app frameworks
+gradio==3.41.0    # For Gradio UI
