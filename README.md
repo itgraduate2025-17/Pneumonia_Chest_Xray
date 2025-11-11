@@ -11,7 +11,7 @@ Pneumonia-Detection/
 ├── Pneumonia_Chest_Xray/ # Dataset folder (NORMAL / PNEUMONIA)
 ├── training_script.py # Model training script
 ├── mobilenetv2_pneumonia.pth # Trained model weights
-├── app.py # Flask web app
+├── app.py # Gragio for UI
 └── README.md # Documentation
 
 
